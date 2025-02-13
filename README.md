@@ -35,7 +35,10 @@
 - Navigation Component
 - Retrofit2
 - Room Database
-- Koin      
+- Koin
+
+## Установка
+ОС Android версии не ниже 8.0      
 
 ## Скриншоты 📸
 <table>

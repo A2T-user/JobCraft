@@ -37,7 +37,10 @@
 - Navigation Component
 - Retrofit2
 - Room Database
-- Koin      
+- Koin
+
+## Команда
+Кирилл Соболев, Юлия Сычева, Андрей Трофимов, Данил Цыганов, Марат Галимов
 
 ## Скриншоты
 <table>
